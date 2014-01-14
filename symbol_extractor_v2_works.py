@@ -49,5 +49,3 @@ for item in a :
 print '\n Test the full symbol_extractor function on test.txt file'
 b = symbol_extractor('test.txt')
 print b
-
-
